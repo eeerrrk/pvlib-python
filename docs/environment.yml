@@ -16,3 +16,5 @@ dependencies:
     - matplotlib
     - seaborn
     - siphon
+    - netcdf4
+    - hdf5
